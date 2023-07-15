@@ -45,8 +45,8 @@ public:
         cout << "-----------------" << endl;
         cout << "      SOURCE     " << endl;
         cout << "-----------------" << endl;
-        cout << "1.New Delhi(1)" << endl;
-        cout << "2.Chandigarh (2) " << endl;
+        cout << "1.Chandigarh(1)" << endl;
+        cout << "2.New Delhi (2) " << endl;
 
         cout << "3.Kolkatta(3)" << endl;
         cout << "4.Mumbai(4) " << endl;
